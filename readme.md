@@ -2,4 +2,4 @@
 
 ## WIP building out a new resume with refactored details and being built in Latex
 
-![Alt text](/screenshots/resume_preview.png?raw=true "Resume Preview")
+![Alt text](/screenshots/latest_resume_preview.png?raw=true "Resume Preview")
